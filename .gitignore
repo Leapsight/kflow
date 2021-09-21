@@ -4,3 +4,4 @@ doc/*
 _build
 _checkouts
 .env
+check_file_consistency_test.dat
